@@ -1,4 +1,15 @@
 package com.example.orguevalls;
 
-public class PantallaPreguntes {
+import androidx.appcompat.app.AppCompatActivity;
+
+public class PantallaPreguntes extends AppCompatActivity {
+
+
+
+
+
+
+
+
+
 }

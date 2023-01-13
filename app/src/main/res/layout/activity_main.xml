@@ -7,7 +7,7 @@
     tools:context=".MainActivity">
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/botoInici"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Button"
@@ -15,7 +15,7 @@
         tools:layout_editor_absoluteY="444dp" />
 
     <ImageView
-        android:id="@+id/botoInici"
+        android:id="@+id/imatge"
         android:layout_width="600dp"
         android:layout_height="944dp"
         app:srcCompat="@drawable/orgue_esglesia_sant_joan_valls"
